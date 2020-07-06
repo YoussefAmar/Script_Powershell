@@ -1,0 +1,1 @@
+﻿Get-Process|Foreach{$_.Name} | sort -unique
